@@ -1,1 +1,1 @@
-Relation repliée de l'installation en ell même pas 
+Relation repliée de l'installation en elle même.
