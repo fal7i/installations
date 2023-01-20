@@ -1,4 +1,4 @@
-# installations
+6# installations
 catégorisation des installations d'art plastique (essai)
 
 
@@ -33,10 +33,14 @@ parergon semble parfaitement suffisante.
 Question de terminologie. Partant de la notion de
 parergon la distinction entre les trois catégories
 d'installations se justifie aisément :
+
 • peinture : relation forte entre l'œuvre et son cadre
 ;
+
 • statue : isolation nette entre l'œuvre et le lieu
 d'installation ;
+
 • tas : relation repliée de l'installation sur elle-
 même.
+
 Quid de l'angle médiologique ?
