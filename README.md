@@ -1,4 +1,4 @@
-6# installations
+## installations
 catégorisation des installations d'art plastique (essai)
 
 
@@ -44,3 +44,5 @@ d'installation ;
 même.
 
 Quid de l'angle médiologique ?
+
+http://archee.qc.ca/images/edito-2016-12/Archee_2016_12_MediologiquePart1.php
